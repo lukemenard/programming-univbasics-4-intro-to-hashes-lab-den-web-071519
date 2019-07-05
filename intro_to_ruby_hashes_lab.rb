@@ -1,9 +1,10 @@
 def new_hash
-  # return an empty hash
+  Hash.new
 end
 
 def my_hash
-  # return a valid hash with any key/value pair of your choice
+  my_hash[:name] = "Maple"
+  my_hash[:breed] = "German Shepherd"
 end
 
 def pioneer
