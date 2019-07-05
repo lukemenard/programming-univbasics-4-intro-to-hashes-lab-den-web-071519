@@ -5,6 +5,7 @@ end
 def my_hash
   my_hash = Hash.new
   my_hash[:name] = "Maple"
+  my_hash[:breed] = "German Shepherd"
 end
 
 def pioneer
