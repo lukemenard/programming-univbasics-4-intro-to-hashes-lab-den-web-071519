@@ -6,6 +6,7 @@ def my_hash
   my_hash = {
     :name => "Maple",
     :breed => "German Shepherd"
+  }
 end
 
 def pioneer
